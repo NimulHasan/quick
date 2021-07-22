@@ -1,0 +1,174 @@
+/*header start*/
+header{
+	border-bottom: 1px solid #EBEDF1;
+}
+.wrapper{
+	width: 90%;
+	margin: 0 auto;
+overflow: hidden;
+}
+.logo{
+float: left;
+}
+.logo a{
+
+}
+.logo a img{
+width: 100%;
+}
+.menu{
+	float: right;
+
+}
+.menu ul{
+list-style: none;
+}
+.menu ul li{
+
+float: left;
+}
+.menu ul li a{
+margin: 0 15px;
+text-decoration: none;
+font-size: 18px;
+color: #0f2656;
+}
+.menu ul li a:hover{
+	color: #008AFF;
+}
+.menu ul li: last-child a{
+	margin-right: 0;
+}
+/*header end*/
+
+
+/*banner start*/
+.banner{}
+.container{
+	width: 70%;
+	margin: 0 auto;
+	padding: 40px;
+	overflow: hidden;
+}
+.b_content{
+	text-align: center;
+	
+}
+.b_content h1{
+	font-size: 48px;
+    margin: 0 234px;
+	color: #0F2656;
+	line-height: 70px;
+}
+.b_content h1 span{
+	color: #45AAFF;
+}
+.b_content p{ 
+    margin: 7px 174px;
+    font-size: 17px;
+}
+.b_img{
+	width: 60%;
+	margin: 0 auto;
+	padding: 10px;
+}
+.b_img img{
+	width: 100%;
+}
+/*banner end*/
+
+
+/*success start*/
+.success{
+	width: 70%;
+	overflow: hidden;
+	margin: 0 auto;
+}
+.sleft{
+	padding: 0 36px;
+	float: left;
+	width: 40%;
+	text-align: right;
+}
+.sleft h2{
+	color: #F15767;
+	font-size: 47px;
+    margin: 0 auto;
+}
+.sleft p{
+	color: #0F2656;
+}
+.sright{
+	width: 50%;
+	float: right;
+}
+.sright h1{
+	margin: 0 14px;
+    color: #0F2656;
+    font-size: 43px
+}
+/*success end*/
+
+/*service start*/
+.services{}
+.container2{
+	width: 80%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.service_l{
+	float: left;
+    width: 25%;
+    margin: 20px 22px;
+    padding: 16px 24px;
+    background-color: #FDEBED ;
+}
+.service_m{
+	float: left;
+    width: 25%;    
+    margin: 20px 22px;
+    padding: 16px 24px;
+    background-color: #EBF9F4;
+}
+.service_r{
+	float: left;
+    width: 25%;  
+    margin: 20px 22px;
+    padding: 16px 24px;
+    background-color: #FFF7E8;
+}
+.s_img{
+	padding: 0 25px;
+	margin: 0 -10px
+}
+.s_img img{
+	width: 100%;
+}
+.s_w{
+	width: 80%;
+}
+.s_w h3{}
+.s_w p{}
+
+
+/*service end*/
+
+/*footer starts*/
+.footer{
+	background-color: #008AFF;
+	padding: 25px 0;
+    margin: 32px 0 0 0;
+}
+
+.idk{
+	width: 30%;
+}
+.content{
+	
+}
+.content p{
+	color: white;
+	text-align: center;
+	margin: 0 -1032px 0 0;
+}
+/*footer end*/
